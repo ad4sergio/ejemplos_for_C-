@@ -1,0 +1,6 @@
+D:\ciclosrepaso\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+D:\ciclosrepaso\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+D:\ciclosrepaso\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+D:\ciclosrepaso\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+D:\ciclosrepaso\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+D:\ciclosrepaso\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb

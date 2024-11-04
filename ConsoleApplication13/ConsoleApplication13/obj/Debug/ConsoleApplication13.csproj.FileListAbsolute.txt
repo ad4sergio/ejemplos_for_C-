@@ -1,0 +1,5 @@
+D:\ciclosrepaso\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+D:\ciclosrepaso\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+D:\ciclosrepaso\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+D:\ciclosrepaso\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+D:\ciclosrepaso\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

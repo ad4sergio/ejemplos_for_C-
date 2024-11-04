@@ -1,0 +1,6 @@
+D:\ciclosrepaso\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+D:\ciclosrepaso\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+D:\ciclosrepaso\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+D:\ciclosrepaso\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+D:\ciclosrepaso\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+D:\ciclosrepaso\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
